@@ -12,28 +12,37 @@ Starting from the story by one of our bangkit team members from Aceh Muhammad Na
 
 Our project is based on a problem that happens in one of the highest valued commodities in Indonesia, and that is coffee. By solving the problems, the commodity quantity and quality will be increased. And finally the economy in our society will be increased as well.
 
+## Meet Our Team Members ## 
+1. Ivan Arsyaditya Prananda - Universitas Dian Nuswantoro - ML
+2. Mohamad Arsya Kaukabi - Universitas Diponegoro - ML
+3. Muhammad Naufal Ariiq - Universitas Syiah Kuala - ML
+4. M. Rizal Firmansyah - Universitas 4. Bina Sarana Informatika - 
+5. Muhammad Syaiful Rahman - Universitas Telkom - CC
+6. Aqshol Afifi - Universitas Islam Negeri Syarif Hidayatullah - CC
+
+
 ## Github Repo Link: ##
 
-**Machine Learning**
+Machine Learning
 
-classiﬁcation of coffee leaves diseases: 
-https://github.com/arsyakaukabi/Co-ffee_A
+>**[classiﬁcation of coffee leaves disease](https://github.com/arsyakaukabi/Co-ffee_A)**
 
-Green Coffee Beans Moisture Level Detection
-https://github.com/ivandityap/Co-ffee_MoistureDetection
+>**[Green Coffee Beans Moisture Level Detection](https://github.com/ivandityap/Co-ffee_MoistureDetection)**
 
-**Cloud Computing:**
+Cloud Computing
 
-Disease classification API
-https://github.com/xrizer/Co-ffee-Desease-API
+>**[Disease classification API](https://github.com/xrizer/Co-ffee-Desease-API)**
 
-Coffee beans Moisture level detection API
-https://github.com/xrizer/Co-ffee-Desease-API
+>**[Coffee beans Moisture level detection API](https://github.com/xrizer/Co-ffee-Desease-API
+)**
 
-**Mobile Development:**
+Mobile Development:
 
-Project Android Studio
-https://github.com/Rizalfirman165/co-ffee
+>**[Project Android Studio](https://github.com/Rizalfirman165/co-ffee)**
+
+
+
+
 
 
 
