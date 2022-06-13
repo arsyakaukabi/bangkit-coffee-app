@@ -16,12 +16,12 @@ Our project is based on a problem that happens in one of the highest valued comm
 1. Ivan Arsyaditya Prananda - Universitas Dian Nuswantoro - ML
 2. Mohamad Arsya Kaukabi - Universitas Diponegoro - ML
 3. Muhammad Naufal Ariiq - Universitas Syiah Kuala - ML
-4. M. Rizal Firmansyah - Universitas 4. Bina Sarana Informatika - 
+4. M. Rizal Firmansyah - Universitas ina Sarana Informatika - 
 5. Muhammad Syaiful Rahman - Universitas Telkom - CC
 6. Aqshol Afifi - Universitas Islam Negeri Syarif Hidayatullah - CC
 
 
-## Github Repo Link: ##
+## Github Repo Link ##
 
 Machine Learning
 
@@ -39,6 +39,22 @@ Cloud Computing
 Mobile Development:
 
 >**[Project Android Studio](https://github.com/Rizalfirman165/co-ffee)**
+
+## Graphical Abstract ##
+
+Here is the proposed model for each features in Co-ffee
+
+![Abstract](Images/graph1.png)
+<p align="center">
+    <b>Fig 1</b> The stage-wise classiﬁcation of coffee leaves with the trained backbones
+</p>
+
+![graph_abs](Images/graph2.png)
+<p align="center">
+    <b>Fig 2</b> Triple deep convolutional neural network model for moisture level detection
+</p>
+
+
 
 
 
