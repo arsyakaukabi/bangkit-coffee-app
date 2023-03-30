@@ -14,8 +14,8 @@ Our project is based on a problem that happens in one of the highest valued comm
 ## Meet Our Team ## 
 | No  | Name                     | University                                    | Learning Path      | Contact        |
 |-----|--------------------------|-----------------------------------------------|--------------------|----------------|
-| 1   | Ivan Arsyaditya Prananda | Universitas Dian Nuswantoro                   | Machine Learning   | [Instagram][1] |
-| 2   | Mohamad Arsya Kaukabi    | Universitas Diponegoro                        | Machine Learning   | [Instagram][2] |
+| 1   | Mohamad Arsya Kaukabi    | Universitas Diponegoro                        | Machine Learning   | [Instagram][2] |
+| 2   | Ivan Arsyaditya Prananda | Universitas Dian Nuswantoro                   | Machine Learning   | [Instagram][1] |
 | 3   | Muhammad Naufal Ariiq    | Universitas Syiah Kuala                       | Machine Learning   | [Instagram][3] |
 | 4   | M. Rizal Firmansyah      | Universitas Bina Sarana Informatika           | Mobile Development | [Instagram][4] |
 | 5   | Muhammad Syaiful Rahman  | Universitas Telkom                            | Cloud Computing    | [Instagram][5] |
